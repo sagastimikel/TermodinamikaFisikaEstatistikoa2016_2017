@@ -35,7 +35,7 @@ Beherago ikusiko duzuen estekan, [***Oharrak***](https://github.com/jmigartua/Te
     2. Egunez eguneko [*egunkaria*](https://github.com/jmigartua/Termodinamika/blob/master/EgunkariaLogFile.md) (*log file*)
 
 
-* #### [Irakaskuntza-gida](https://github.com/jmigartua/Termodinamika/blob/master/IrakaskuntzaGida.md)
+* #### [Irakaskuntza-gida](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/master/IrakaskuntzaGidaTermo.md)
 
 
 ----------------------------------

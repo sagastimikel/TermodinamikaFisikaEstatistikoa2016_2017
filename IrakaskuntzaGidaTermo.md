@@ -1,7 +1,7 @@
 # Termodinamika eta Fisika Estatistikoa
 
 **3.mailako halabeharrezko irakasgaia.**
-2015-2016 Ikasturtea
+2016-2017 Ikasturtea
 
 ## Irakasgaiaren testuingurua
 
