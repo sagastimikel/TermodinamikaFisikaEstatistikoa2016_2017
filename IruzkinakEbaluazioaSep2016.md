@@ -60,6 +60,8 @@ Azterketatxo Osoan          | **10.00**
 1. Lehenengo lauhileko azterketatxoak:
    1. 1., 2., 3., 4. eta 5. gaiekin lotuta    
       Gelan egin beharrekoa.  
+   2. 1., 2., 3., 4. eta 5. gaiekin lotutako ariketak  
+      Etxean egin beharrekoa.  
    3. Energia erabilgarria eta energia askea.  
        Gelan egin beharrekoa.  
    4. Formalismo aldaketa eta kalkulu termodinamikoa.  
