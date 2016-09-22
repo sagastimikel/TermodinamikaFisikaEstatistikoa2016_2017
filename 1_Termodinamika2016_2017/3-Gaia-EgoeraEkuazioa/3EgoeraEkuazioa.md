@@ -14,14 +14,14 @@
  * *Callen* liburua: I postulatua
 3. Egoera-ekuazioa
  * Tenperatura-eskala
-    - Egoera-ekuazioaren adierazpeide grafikoak
-    - Egoera-ekuazioaren adierazpeide matematikoak: 3 adibde
+    - Egoera-ekuazioaren adierazpide grafikoak
+    - Egoera-ekuazioaren adierazpide matematikoak: 3 adibde
        - egoera-ekuazioaren adierazpen diferentzial
        - egoera-aldaketa diferentziala
        - prosezu kuasiestatikoak
        - koefiziente esperimentalak: $\alpha$, $\kappa_{T}$
 
-*Zemansky* liburuko 2.1 - 2.13 atalak
+*Zemansky* liburuko 2.1 - 2.13 atalak  
 *Callen* liburuko 1.5 eta 4.2 atalak
 
 ________________________________
