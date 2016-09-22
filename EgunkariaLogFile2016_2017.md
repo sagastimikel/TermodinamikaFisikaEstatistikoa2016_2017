@@ -56,5 +56,5 @@ Log file for the subject
     Puntu hau inportantea da: *Termodinamika eta Fisika Estatistikoa* irakasgaiari dagokion irakaskuntza-gida da webgune honetan dagoena, honek baino ez du balio
     * Tutoretzak aipatu, ordutegia aipatu, gardenkien kopia eman...
     * Ebaluazio-sistema aipatu  
-      Honako hau da:  
+      Honako hau da:  [ebaluazio-sistema](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/master/IruzkinakEbaluazioaSep2016.md)
 -----------------------------
