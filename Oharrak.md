@@ -6,7 +6,7 @@
     2. **2016ko irailaren 21an**, jasotako oharra:
 
         Denon erabakia izan da honako hau:  
-        galdutako eskola-orduak asteazkenetan, eguerdiko 12etan, berreskuratuko dira 
+        galdutako eskola-orduak asteazkenetan, eguerdiko 12etan, berreskuratuko dira
 
 
 ----------------------------------
