@@ -8,24 +8,24 @@ MathJax.Hub.Config({
 Log file for the subject
 -----------------------------
 **Sep2016-22**  
-    Proposatutako ariketa egin: koefiziente esperimentalen definizioko orrian dauden adierazpenak lortu, bi modu ezberdinetan:  
+- Proposatutako ariketa egin: koefiziente esperimentalen definizioko orrian dauden adierazpenak lortu, bi modu ezberdinetan:  
     - abiapuntuko adierazpenetik bakanduz  
     - deribatu partzialen arteko erlazioak erabiliz  
 
-Hurrengo gardenkiko ariketak proposatu: egoera-ekuazioetatik koefiziente esperimentalak lortzea
+- Hurrengo gardenkiko ariketak proposatu: egoera-ekuazioetatik koefiziente esperimentalak lortzea
 
-[Zero Printzipioarekin](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/master/1_Termodinamika2016_2017/2-Gaia-ZeroPrintzipioa/Termo1GaiaTenperatura.ipynb) lotutako ariketak proposatu
+- [Zero Printzipioarekin](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/master/1_Termodinamika2016_2017/2-Gaia-ZeroPrintzipioa/Termo1GaiaTenperatura.ipynb) lotutako ariketak proposatu
 [Egoera-ekuazioarekin](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/master/1_Termodinamika2016_2017/3-Gaia-EgoeraEkuazioa/Termo2GaiaEgoeraEkuazioaArgitara.ipynb) lotutako ariketak proposatu  
 
-[4. Gaia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/master/1_Termodinamika2016_2017/3-Gaia-EgoeraEkuazioa/3EgoeraEkuazioa.md): Termodinamikaren Lehen Printzipioa
-- Gaiaren aurkezpena  
+- [4. Gaia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/master/1_Termodinamika2016_2017/3-Gaia-EgoeraEkuazioa/3EgoeraEkuazioa.md): Termodinamikaren Lehen Printzipioa
+  + Gaiaren aurkezpena  
   Azpimarratuz:  
     - diferentzial zehatza/ez-zehatza zer den
     - lana eta beroa diferentzial ez-zehatzak dira:
       - ez dute sistemen propietaterik adierazten
       - energia-edukia aldatzeko moduak adierazten dituzte  
         energia transferitzeko moduak dira
-- Lan mekanikoaren adierazpena azalduta
+  + Lan mekanikoaren adierazpena azalduta
   proposatu zuok aztertzeko eta erabiliko dugun adierazpenaz jabetzeko
 
 
