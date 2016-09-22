@@ -8,7 +8,7 @@ MathJax.Hub.Config({
 Log file for the subject
 -----------------------------
 **Sep2016-22**  
-    Proposatutako ariketa egin: koefiziente esperimentalen definizioko orrian dauden adierazpenak lortu, bi modu ezberdinetan:
+    Proposatutako ariketa egin: koefiziente esperimentalen definizioko orrian dauden adierazpenak lortu, bi modu ezberdinetan:  
     - abiapuntuko adierazpenetik bakanduz
     - deribatu partzialen arteko erlazioak erabiliz  
 
