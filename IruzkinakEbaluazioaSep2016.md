@@ -1,12 +1,29 @@
 ---------------------------------
 
-Zuzentzeko irizpideak:
-
-Zuzentzeko irizpideak:
+Azterketa eta azterketatxoak ***Zuzentzeko irizpideak***:
 
 Azterketaxoek bana puntu absolutu (irakasgaiaren notaren 1 puntu) balio dute.
 1. lauhilekoan 5 azterketatxo izango dira  
 2. lauhilekoan 5 azterketatxo izango dira  
+
+Horren arabera, azterketatxoen bidez, partzial bakoitzean notaren 5.0 absolutu lor daitezke  
+Azterketetan, beraz, gehien jota notaren 5.0 lor daiteke  
+
+Partzial bakoitza gainditu behar da, gutxienez 5.0 nota lortuta  
+Azterketa finalean, ohiko deialdian, gainditu ez den partziala baino ez da egin behar izango.  
+
+Adibidez:  
+- lehen lauhileko azterketatxoen bidezko nota osoa da 3.50
+- azterketa partzialean lortutako nota da 3.5 0
+- partzialean lortudako nota da 7.00, beraz, badago gaindituta
+
+
+- bigarren lauhileko azterketatxoen bidezko nota osoa da 3.50
+- azterketa partzialean lortutako nota da 1.00
+- partzialean lortudako nota da 4.50, beraz, ez dago gaindituta  
+
+Kasu honetan, ohiko deialdian 2. partziala baino ez du egin behar iksaleak.  
+Aldiz, ez-ohiko deialdian, dena egin beharko du
 
 Azterketatxoak aste beteko epearekin, gutxienez, iragarriko dira  
 
@@ -41,34 +58,29 @@ Azterketatxo Osoan          | **10.00**
 --------------------------------------
 
 1. Lehenengo lauhileko azterketatxoak:
-   1. 1., 2., 3., 4. eta 5. gaiarekin lotutako eskola-orduan egin beharrekoa   
-   2. 1., 2., 3., 4. eta 5. gaiekin lotutako ariketak azterketatxoa  
+   1. 1., 2., 3., 4. eta 5. gaiekin lotuta    
+      Gelan egin beharrekoa.  
    3. Energia erabilgarria eta energia askea.  
-       Eskola-orduan egin beharrekoa.  
-       *Azaroaren 23an*, astelehena  
+       Gelan egin beharrekoa.  
    4. Formalismo aldaketa eta kalkulu termodinamikoa.  
-       Eskola-orduan egin beharrekoa.  
-       *Azaroaren 30ean*, astelehena  
+       Gelan egin beharrekoa.  
    5. Fase-trantsizioak.  
-       Eskola-orduan egin beharrekoa.  
-       Lauhilekoaren azken egunean.  
+       Gelan egin beharrekoa.  
 
 
 2. Azterketaxoek bana puntu balio dute.  
        "Sisteman" sartuz gero...sistema zaude.  
-       Horrek esan nahi duena da, behin sartuta, onartzen duzula ebaluatua izateko prozedura azterketatxeon bidezkoa dela.
+       Horrek esan nahi du, behin sartuta, onartzen duzula ebaluatua izateko prozedura azterketatxeon bidezkoa dela.
 
-3. Hurrengo azterketatxoa baino lehen hartu behar duzue erabakia azterketxoen bidez ebaluatuak izateko edo ez.  
-
-4. Denontzat zihurtatzen du 1 puntu **1. Azterketatxoak**, **nahiz eta erabaki ez sartzea azterketatxoen bidez ebaluatzeko bidean**.  
-
-5. Orduan, 2. azterketatxoa, nik neuk zuzendu eta zuon zuzenketa kontuan hartuta, nota esleituko dizuet: 2 azterketxoen nota (ariketak eta azterketatxoa).  
-    **Nota hori ikusitakoan hartu behar duzue erabakia, ABE (Azterketatxoen Bidezko Ebaluazioa) onartzekoa.**..
+3. Lehenengo azterketatxoa egin baino lehen hartu behar duzue erabakia azterketxoen bidez ebaluatuak izateko edo ez.  
+   Ezezkoan, azterketa partzialean, %100ean, ebaluatuak izango zarete  
+   Azterketatxoen bidez ebaluatuak ez zaretenok azterketa partzial ezberdina izango duzue  
+   azterketatxoen bidez ebaluatu diren gaitasunak ebaluatu ahal izateko  
+   dena dela, kasu horretan, azterketaren formari eta ebaluazio-sistemari buruz esandakoek balio dute
 
 2. Azterketatxoek egitura berbera izango dute:  
-   Eskoletan proposatutakoen arteko ariketak izango dira, beti.  
-   - 1. Ariketa: kualitatiboa.  
-        Elkarri trukatzeko, zuzentzeko.  
-   - 2. Ariketa: kualitatiboa.  
-   - 3. Ariketa: zenbakizkoa  
-   - 4. Ariketa: zenbakizkoa  
+   Eskoletan proposatutako ariketak edo horien berdin antzekoak izango dira.  
+   - 1. Ariketa: kualitatiboa, *kualitatiboagoa* 3. eta 4. baino.  
+   - 2. Ariketa: kualitatiboa, *kualitatiboagoa* 3. eta 4. baino.  
+   - 3. Ariketa: kuantitatiboa, zenbakizkoa  
+   - 4. Ariketa: zkuantitatiboa, enbakizkoa  
