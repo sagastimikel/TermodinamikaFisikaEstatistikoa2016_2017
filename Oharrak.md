@@ -3,10 +3,14 @@
 
 ----------------------------------
 
-    2. **2016ko irailaren 21an**, jasotako oharra:
+    2. **2016ko irailaren 23an**, jasotako oharra:
 
-        Denon erabakia izan da honako hau:  
-        galdutako eskola-orduak asteazkenetan, eguerdiko 12etan, berreskuratuko dira
+        Datorren astean, irailaren 26tik 29ra bitartean, bigarren orduan eskolarik izango ez duzuela aprobetxatuz, nik emango dut eskola. Orduan, datorren astean egunero 2 eskola-ordu izango ditugu egunero; asteazkenean, 3.  
+
+        2016-09-26: 8:40-10:30  
+        2016-09-27: 8:40-10:30  
+        2016-09-28: 8:40-10:30  +  12:00-12:50  
+        2016-09-29: 8:40-10:30  
 
 
 ----------------------------------
