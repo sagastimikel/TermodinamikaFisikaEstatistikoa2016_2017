@@ -15,7 +15,7 @@ Log file for the subject
   - lan mekanikoaren adierazpide grafikoak
   - lan mekanikoaren zeinu-irizpidea
   - lana orokorrean:  
-  lan orokorraren adierazpen diferentziala  
+  lan orokorraren adierazpen diferentzialak    
 
   2 orduan  
   - masa konstanteko sistem hidrostatikoak dauzkan egoera aldatzeko hiru modu ezberdintasunak
