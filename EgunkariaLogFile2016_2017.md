@@ -7,6 +7,25 @@ MathJax.Hub.Config({
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js"></script>
 Log file for the subject
 -----------------------------
+**Sep2016-26**  
+- [4. Gaia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/master/1_Termodinamika2016_2017/3-Gaia-EgoeraEkuazioa/3EgoeraEkuazioa.md): Termodinamikaren Lehen Printzipioa  
+
+  1 orduan  
+  - lan mekanikoaren adierazpen diferentziala gogorarazi
+  - lan mekanikoaren adierazpide grafikoak
+  - lan mekanikoaren zeinu-irizpidea
+  - lana orokorrean:  
+  lan orokorraren adierazpen diferentziala  
+
+  2 orduan  
+  - masa konstanteko sistem hidrostatikoak dauzkan egoera aldatzeko hiru modu ezberdintasunak
+  - Oinarrziko bereizketa: sistem/ingurunea bikotea  
+    beroaren definizio kalorimentrikoa
+  - lan adibatikoa: barne-energiaren definizioa eta lehen printzipioaren adierazpenak
+  - lenenengo printzipioaren formulazio matematikoa
+  - lehen printzipioaren formulazio orokortua
+
+-----------------------------
 **Sep2016-22**  
 - Proposatutako ariketa egin: koefiziente esperimentalen definizioko orrian dauden adierazpenak lortu, bi modu ezberdinetan:  
     - abiapuntuko adierazpenetik bakanduz  
