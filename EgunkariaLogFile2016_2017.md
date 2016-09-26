@@ -8,7 +8,7 @@ MathJax.Hub.Config({
 Log file for the subject
 -----------------------------
 **Sep2016-26**  
-- [4. Gaia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/master/1_Termodinamika2016_2017/3-Gaia-EgoeraEkuazioa/3EgoeraEkuazioa.md): Termodinamikaren Lehen Printzipioa  
+- [4. Gaia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/master/1_Termodinamika2016_2017/4-Gaia-LehenengoPrintzipioa/LehenengoPrintzipioa.md): Termodinamikaren Lehen Printzipioa  
 
   1 orduan  
   - lan mekanikoaren adierazpen diferentziala gogorarazi
@@ -36,7 +36,7 @@ Log file for the subject
 - [Zero Printzipioarekin](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/master/1_Termodinamika2016_2017/2-Gaia-ZeroPrintzipioa/Termo1GaiaTenperatura.ipynb) lotutako ariketak proposatu
 [Egoera-ekuazioarekin](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/master/1_Termodinamika2016_2017/3-Gaia-EgoeraEkuazioa/Termo2GaiaEgoeraEkuazioaArgitara.ipynb) lotutako ariketak proposatu  
 
-- [4. Gaia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/master/1_Termodinamika2016_2017/3-Gaia-EgoeraEkuazioa/3EgoeraEkuazioa.md): Termodinamikaren Lehen Printzipioa
+- [4. Gaia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/master/1_Termodinamika2016_2017/4-Gaia-LehenengoPrintzipioa/LehenengoPrintzipioa.md): Termodinamikaren Lehen Printzipioa
   + Gaiaren aurkezpena  
   Azpimarratuz:  
     - diferentzial zehatza/ez-zehatza zer den
