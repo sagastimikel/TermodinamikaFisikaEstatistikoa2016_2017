@@ -7,6 +7,25 @@ MathJax.Hub.Config({
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js"></script>
 Log file for the subject
 -----------------------------
+**Sep2016-27**  
+- [4. Gaia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/master/1_Termodinamika2016_2017/4-Gaia-LehenengoPrintzipioa/LehenengoPrintzipioa.md): Termodinamikaren Lehen Printzipioa  
+
+  1 orduan  
+  - lehen printzipioaren formulazio orokortua  
+    gogorarazi eta barnean dagoen edukia argitu  
+    adierazpenaren esangura fisikoa  
+    lehen lauhileko bigarren zatian aztertuko den oinarrizko ekuazioarekin lotu
+  - bero-ahalmena: definizioa eta adibideak
+  - bero-iturria: definizioa eta adibideak
+  - lehenengo printzipioaren adierazpen diferentzialaren forma ezberdinak aurkeztu:  
+
+  2 orduan  
+  - lehenengo printzipioaren adierazpen diferentziala 2 modu ezberdietan lortu: bi aldagai termodinamiko independenteen sorta erabili adierazpena lortzeko  
+  - hirugarren proposatu ariketa moduan  
+  - [ariketa-orriko](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/master/1_Termodinamika2016_2017/4-Gaia-LehenengoPrintzipioa/Termo4_5Gaiak1PrintzipioaGasIdeala_2_Argitara.ipynb) 3., 4., 5. eta 6. ariketak proposatu
+
+-----------------------------
+-----------------------------
 **Sep2016-26**  
 - [4. Gaia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/master/1_Termodinamika2016_2017/4-Gaia-LehenengoPrintzipioa/LehenengoPrintzipioa.md): Termodinamikaren Lehen Printzipioa  
 
@@ -25,6 +44,7 @@ Log file for the subject
   - lenenengo printzipioaren formulazio matematikoa
   - lehen printzipioaren formulazio orokortua
 
+-----------------------------
 -----------------------------
 **Sep2016-22**  
 - Proposatutako ariketa egin: koefiziente esperimentalen definizioko orrian dauden adierazpenak lortu, bi modu ezberdinetan:  
