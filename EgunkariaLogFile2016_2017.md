@@ -17,11 +17,11 @@ Log file for the subject
     lehen lauhileko bigarren zatian aztertuko den oinarrizko ekuazioarekin lotu
   - bero-ahalmena: definizioa eta adibideak
   - bero-iturria: definizioa eta adibideak
-  - lehenengo printzipioaren adierazpen diferentzialaren forma ezberdinak aurkeztu:  
+  - lehenengo printzipioaren adierazpen diferentzialaren forma ezberdinak aurkeztu  
 
   2 orduan  
   - lehenengo printzipioaren adierazpen diferentziala 2 modu ezberdietan lortu: bi aldagai termodinamiko independenteen sorta erabili adierazpena lortzeko  
-  - hirugarren proposatu ariketa moduan  
+  - hirugarrena proposatu ariketa moduan  
   - [ariketa-orriko](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/master/1_Termodinamika2016_2017/4-Gaia-LehenengoPrintzipioa/Termo4_5Gaiak1PrintzipioaGasIdeala_2_Argitara.ipynb) 3., 4., 5. eta 6. ariketak proposatu
 
 -----------------------------
