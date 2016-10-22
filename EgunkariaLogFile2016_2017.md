@@ -5,7 +5,83 @@ MathJax.Hub.Config({
 </script>
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js"></script>
-Log file for the subject
+Log file for the subject   
+**Oct2016-20**  
+- [5. Gaia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/master/1_Termodinamika2016_2017/5-Gaia-BigarrenPrintzipioa/BigarrenPrintzipioa.md): Termodinamikaren Bigarren Printzipioa
+
+  - atzoko eskola birpasatu
+  - $\delta Q$-ren faktore integratzailea
+  - faktore integratzailearen esangura fisikoa
+  - entropia-funtzioa
+
+-----------------------------------
+**Oct2016-19**  
+- [5. Gaia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/master/1_Termodinamika2016_2017/5-Gaia-BigarrenPrintzipioa/BigarrenPrintzipioa.md): Termodinamikaren Bigarren Printzipioa
+
+  - atzoko eskola birpasatu
+  - gainazal adiabatiko itzulgarrien existentzia, askatasun-gradu anitzeko sistemen kasuan:
+    - bigarren printzipioaren erabileraren beharra
+  - $\delta Q$-ren faktore integratzailea
+
+-----------------------------------
+**Oct2016-18**  
+- [5. Gaia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/master/1_Termodinamika2016_2017/5-Gaia-BigarrenPrintzipioa/BigarrenPrintzipioa.md): Termodinamikaren Bigarren Printzipioa
+
+  - atzoko eskola birpasatu
+  - Bigarren Printzipioaren bi enuntziatu:
+    - Clausius-en enuntziatua
+    - kelvin-en eta Planck-en enuntziatua
+  - bi enuntziatuen arteko baliokidetasuna
+  - Itzulgarritasunaren (itzulezintasunaren) definizioa
+  - Bigarren Printzipioaren ondorioak:
+    - lehenengo ondorioa: berezko prozesu denak itzulezinak dira
+      - berezko prozesuen sailkapena: irakurri liburuan
+      - itzulgarritasunerako baldintzak:
+         - kuasiestatikotasuna
+         - energia-barreiaketarik ez
+    - bigarren ondorioa: gainazal adiabatiko itzulgarrien esistentzia
+      - lehenengo pritzipioaz baino ez baliatuz
+      - bigarren printzipioa erabiliz
+
+
+----------------------------
+**Oct2016-17**  
+- [5. Gaia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/master/1_Termodinamika2016_2017/5-Gaia-BigarrenPrintzipioa/BigarrenPrintzipioa.md): Termodinamikaren Bigarren Printzipioa
+
+  - gaiaren aurkezpena, [laburbilduma]()
+  - Izadiko asimetria
+  - Motor termikoak eta antzekoak: hozkailuak eta bero-punpak
+
+
+-----------------------------
+**Oct2016-14**  
+- [Azterketatxoa 1](): Gaiak 1, 2, 3, 4 eta 5
+- [Hementxe]() duzue azterketaxoa zuzenduta (2016-10-17)
+- [Hementxe]() dauzkazue emaitzak (2016-10-18)
+
+
+-----------------------------
+**Oct2016-13**  
+- [Ariketak](): ariketa osagarriak ariketa-sortatik
+  - fisikari mendizaleak asmatutako altimetroaren tenperaturaren bariantea
+  - hirugarren bariante bat pentsatzeko proposatu
+  - Eragiketa bikoitzeko prozezua
+  - presio konstanteko likido batekin ukipen termikoan dagoen gas ideal baten konpresioa: muga-kasuen azterketa
+
+
+-----------------------------
+**Oct2016-11**  
+- [Ariketak](): egoera-ekuazioarekin, lehen Printzipioarekin eta gas idealekin lotutako ariketak  
+  - masa ez-konstanteko gas idealaren ariketaren azterketaxoa
+  - gas ideal monoatomikoa eta diatomikoaren arteko ezberdintasuna egoera-ekuazioen bidez: egoera-ekuazio termiko ezberdinekoak dira, baina egoera-ekuazio termiko berekoak
+
+-----------------------------
+**Oct2016-10**  
+- Gas idealetangertatzen diren lau prozesuren azterketa sakona: isotermoa, isokoroa, isobaroa eta adiabatikoa
+- fisikari mendizaleak asmatutako altimetroa: bi bariante
+
+
+
 -----------------------------
 **Sep2016-27**  
 - [4. Gaia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/master/1_Termodinamika2016_2017/4-Gaia-LehenengoPrintzipioa/LehenengoPrintzipioa.md): Termodinamikaren Lehen Printzipioa  
@@ -89,7 +165,7 @@ Log file for the subject
 -----------------------------
 
 -----------------------------
-**Sep2016-20**
+**Sep2016-20**  
     - Tenperaturaren balioa esleitzeko protokoloa gogorarazi
     - Gas idealen Tenperatura-eskala
        - bolumen konstanteko termometroa zuek ikasi
@@ -103,14 +179,14 @@ Log file for the subject
 -----------------------------
 
 -----------------------------
-**Sep2016-19**
+**Sep2016-19**  
     Ez da eskolarik egon, nire erruz  
     Gaurko eskola-ordua datorren asteazekenera, iralilaren 28ra, eguerdiko 12etara, pasatu da
 
 -----------------------------
 
 -----------------------------
-**Sep2016-15**
+**Sep2016-15**  
 - [2. Gaia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/master/1_Termodinamika2016_2017/3-Gaia-EgoeraEkuazioa/3EgoeraEkuazioa.md): Termodinamikaren Zero Printzipioa
     - Gaiaren aurkezpena
     - Sistema eta sistemaren deskripzio termodinamikoa  
@@ -123,7 +199,7 @@ Log file for the subject
 -----------------------------
 
 -----------------------------
-**Sep2016-14**
+**Sep2016-14**  
 - [1. Gaia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/master/1_Termodinamika2016_2017/3-Gaia-EgoeraEkuazioa/3EgoeraEkuazioa.md): Oinarrizko kontzeptuak
     - Gaiaren aurkezpena
     - Sistema eta sistemaren deskripzio termodinamikoa  
@@ -135,14 +211,14 @@ Log file for the subject
 -----------------------------
 
 -----------------------------
-**Sep2016-13**
+**Sep2016-13**  
 - lehenengo lauhilekoaren aurkezpena: *Termodinamika*
 - erabilitako [eskema]()
 
 -----------------------------
 
 -----------------------------
-**Sep2016-12**
+**Sep2016-12**  
 
   -  Irakasgaiaren aurkezpena.
   -  Webgunea aurkeztu, hortxe dagoen informazioak balio du, ez fakultateko webgunean dagoenak  
