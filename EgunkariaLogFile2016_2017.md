@@ -14,8 +14,6 @@ Log file for the subject
   - faktore integratzailearen esangura fisikoa
   - entropia-funtzioa
 
-
-
 -----------------------------------
 **Oct2016-19**  
 - [5. Gaia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/master/1_Termodinamika2016_2017/5-Gaia-BigarrenPrintzipioa/BigarrenPrintzipioa.md): Termodinamikaren Bigarren Printzipioa
