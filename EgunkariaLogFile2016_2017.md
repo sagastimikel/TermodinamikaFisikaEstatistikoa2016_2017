@@ -7,16 +7,63 @@ MathJax.Hub.Config({
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js"></script>
 Log file for the subject   
 
+**Oct2016-25**  
+- Atzoko eskolarekin lotutako bi iruzkin:
+   - Carnot-en zikloaren errendimenduaren adierazpena
+   - $\left( \frac{\partial S}{\partial T} \right)_{X} = \frac{C_{X}}{T}$ adierazpenaren lorpena
+   - pareko adierazpenen lorpena
+   
+
+- [6. Gaia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/1_Termodinamika2016_2017/6-Gaia-BigarrenPrintzipioa/BigarrenPrintzipioa.md): Termodinamikaren Bigarren Printzipioa
+  -  Bigarren Printzipioaren ondorioak aztertzeko metodo teknikoa:
+     - Carnot-en zikloa
+        - Carnot-en zikloaren errendimenduaren adierazpena
+   - Carnot-en motorraren errendimenduak ez dauka ziklikoki dabilen sistemarekiko mendekotasunik
+   - Carnot-en motorraren errendimendua maximoa da finkatutako bi tenperaturen artean
+
+
+- Zuontzat geratzen dira honako hauek:
+  - metodo teknikoari segituz tenperatura-eskala absolutuaren ondorioztapena
+  - tenperatura-eskala absolutua eta gas idealen tenperatura-eskalen arteko baliokidetasuna
+-----------------------------------
+
+**Oct2016-24**  
+- [6. Gaia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/1_Termodinamika2016_2017/6-Gaia-BigarrenPrintzipioa/BigarrenPrintzipioa.md): Termodinamikaren Bigarren Printzipioa
+  - begiratzeko utzitakoak aztertu
+  - aurreko eguneko eskola birpasatu
+  - sistema orokorraren kasuan entropia-aldaketaren formak ondorioztatu  
+    gas idealaren kasuan egin den antzera
+  - prozesu berezia aukeratu: gas idealaren zabaltze askea
+
+-  Bigarren Printzipioaren ondorioak aztertzeko metodo teknikoa:
+   - Carnot-en zikloa
+      - Carnot-en zikloaren adierazpide grafikoa $T/S$ diagraman
+      - Ariketa-proposamena:  
+        Carnot-en zikloaren adierazpide grafikoa bestelako diagrametan
+
+
+- **Azterketatxoa iragarri**:
+ - etxerako ariketak izango dira, bai, betiko egiturarekin
+
+
+   - aste honetan (2016-10-24; 2016-10-27):
+       - teoriarekin bukatu
+       - ariketak proposatu
+- datorren astean (2016-10-31; 2016-11-03)
+    - ariketak egin
 -----------------------------------
 
 **Oct2016-20**  
 - [6. Gaia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/1_Termodinamika2016_2017/6-Gaia-BigarrenPrintzipioa/BigarrenPrintzipioa.md): Termodinamikaren Bigarren Printzipioa
-
   - atzoko eskola birpasatu
   - $\delta Q$-ren faktore integratzailea
   - faktore integratzailearen esangura fisikoa
-  - entropia-funtzioa
+  - entropia-funtzioa  
 
+
+- Proposatu begiratzeko honako bi hauek:
+  - beroaren faktore integratzailearen barne egitura ondorioztatzeko azalpena
+  - aztertzea gas idealaren kasuan entropia-aldaketaren formak
 
 -----------------------------------
 **Oct2016-19**  
