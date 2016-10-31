@@ -7,6 +7,26 @@ MathJax.Hub.Config({
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js"></script>
 Log file for the subject   
 
+**Oct2016-26**  
+- Atzoko eskolarekin lotutako bi iruzkin:
+   - Zer adierazpen dagokio edozein bero-iturriren entropia-aldaketari?  
+     bero-iturriek beti trukatzen dute beroa era itzulgarrian...
+   - taulan dauden kalkuluak aztertu: bereziki bi
+      - bi gas idealen aldibireko bi zabaltze aske
+      - beroaren berezko garraioa, bi bero-iturrien artean
+
+- [6. Gaia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/1_Termodinamika2016_2017/6-Gaia-BigarrenPrintzipioa/BigarrenPrintzipioa.md): Termodinamikaren Bigarren Printzipioa
+  -  Entropia-emendioaren printzipioa:  
+    berezko prozesu denetan unibertsoaren entropia-aldaketa positiboa da
+  - berezko prozesuen sailkapeneko prozesu adierazgarrien entropiaren kalkulua
+  - frogapena: prozesu adiabatiko itzulezinetan entropia-aldaketa positiboa da
+  - lan maximoaren teorema
+
+
+- prestatu biharko eskolarako adibide bat zeinean argitzen den nola eratu daitekeen prozesu adiabatiko itzulezinen entropia-aldaketaren kalkuluan egindako frogapenean erabili den zikloa (Izaroren zalantza)
+
+-----------------------------------
+
 **Oct2016-25**  
 - Atzoko eskolarekin lotutako bi iruzkin:
    - Carnot-en zikloaren errendimenduaren adierazpena

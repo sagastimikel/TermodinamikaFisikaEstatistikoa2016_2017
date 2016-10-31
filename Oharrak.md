@@ -3,6 +3,15 @@
 
 ----------------------------------
 
+3. **2016ko urriaren 31n**, jasotako oharra:
+
+    Gaur ez dago eskolarik.  
+    Azkenean, "zubia" egitea erabaki eta adostu dugu.  
+    Oraindik ez dago adostuta noiz berreskuratuko dugun gaurko eskola.
+
+
+----------------------------------
+
 2. **2016ko irailaren 23an**, jasotako oharra:
 
     Datorren astean, irailaren 26tik 29ra bitartean, bigarren orduan eskolarik izango ez duzuela aprobetxatuz, nik emango dut eskola.   
