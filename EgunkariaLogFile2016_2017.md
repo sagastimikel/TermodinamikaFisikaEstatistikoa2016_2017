@@ -7,6 +7,19 @@ MathJax.Hub.Config({
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js"></script>
 Log file for the subject   
 
+**Oct2016-27**  
+
+- Atzoko eskolan egindakoa birpasatu.
+
+- [6. Gaia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/1_Termodinamika2016_2017/6-Gaia-BigarrenPrintzipioa/BigarrenPrintzipioa.md): Termodinamikaren Bigarren Printzipioa
+  - lan maximoaren teorema: frogapena
+  - lan maximoarekin lotutako ariketa motak
+
+
+- Ahaztuta, beraz, hurrengo egunerako prestatu.  
+Prestatu biharko eskolarako adibide bat zeinean argitzen den nola eratu daitekeen prozesu adiabatiko itzulezinen entropia-aldaketaren kalkuluan egindako frogapenean erabili den zikloa (Izaroren zalantza)
+
+-----------------------------------
 **Oct2016-26**  
 - Atzoko eskolarekin lotutako bi iruzkin:
    - Zer adierazpen dagokio edozein bero-iturriren entropia-aldaketari?  
