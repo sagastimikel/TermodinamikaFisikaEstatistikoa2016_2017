@@ -3,6 +3,20 @@
 
 ----------------------------------
 
+4. **2016ko azaroaren 1ean**, jasotako oharra:
+
+    Ordenadorearekin izan ditudan arazoengatik, egunotan, nahiko sailtasun handiak izan ditut biltegi digitala (errpositorioa) behar den moduan eguneratzeko. Gainera, segurtasunagatik, beste adara batean lanean ibili naiz: ***Berria*** izeneko adarrean eta ez *master* adarrean.  
+    
+    Honako bideo honetan duzue modua [*`Berria`*]() adarrari konektatzeko eta azken eguneratzeak ikusi ahal izateko.  
+    
+    <video width="320" height="200" controls preload> 
+      <source src="BerriaErrepArgitzeaNov2016.mp4"></source> 
+    </video>
+    
+    Arazorik baduzue, esan eta saiatuko naiz konpontzen.
+
+----------------------------------
+
 3. **2016ko urriaren 31n**, jasotako oharra:
 
     Gaur ez dago eskolarik.  
