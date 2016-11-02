@@ -7,10 +7,10 @@
 
     Ordenadorearekin izan ditudan arazoengatik, egunotan, nahiko sailtasun handiak izan ditut biltegi digitala (errpositorioa) behar den moduan eguneratzeko. Gainera, segurtasunagatik, beste adara batean lanean ibili naiz: ***Berria*** izeneko adarrean eta ez *master* adarrean.  
     
-    Honako bideo honetan duzue modua [*`Berria`*]() adarrari konektatzeko eta azken eguneratzeak ikusi ahal izateko.  
+    Honako bideo honetan duzue modua [*`Berria`*](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/BerriaErrepArgitzeaNov2016.mp4) adarrari konektatzeko eta azken eguneratzeak ikusi ahal izateko.  
     
     <video width="320" height="200" controls preload> 
-      <source src="BerriaErrepArgitzeaNov2016.mp4"></source> 
+      <source src="https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/BerriaErrepArgitzeaNov2016.mp4"></source> 
     </video>
     
     Arazorik baduzue, esan eta saiatuko naiz konpontzen.
