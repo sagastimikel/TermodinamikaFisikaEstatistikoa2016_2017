@@ -7,6 +7,24 @@ MathJax.Hub.Config({
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js"></script>
 Log file for the subject   
 
+**Nov2016-03**  
+
+- [6. Gaia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/1_Termodinamika2016_2017/6-Gaia-BigarrenPrintzipioa/BigarrenPrintzipioa.md): Termodinamikaren Bigarren Printzipioa
+  - Energia ez erabilgarria  
+  - [Ariketa-sortako](http://localhost:8888/notebooks/Desktop/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/1_Termodinamika2016_2017/6-Gaia-BigarrenPrintzipioa/Termo6GaiaBigarrenPrintzipioaArgitara.ipynb#) ariketa zenbait ariketa planteatu, astelehenerako egin behar dira:  
+    - 13
+    - 14, 15, 15', 15''
+    - 26
+
+
+
+- Azterketatxorako proposamena:
+
+   1 - ariketa kualitatiboa, [ariketa-sortako](http://localhost:8888/notebooks/Desktop/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/1_Termodinamika2016_2017/6-Gaia-BigarrenPrintzipioa/Termo6GaiaBigarrenPrintzipioaArgitara.ipynb#) bat edo horietako barianteren bat  
+   2 - beste bat  
+   3 - gaur bertan planteatutako ariketetako bat edo horren barianteren bat  
+   4 - beste bat
+-----------------------------------
 **Nov2016-02**  
 
 - Atzoko eskolan egindakoa birpasatu.
