@@ -9,6 +9,8 @@
     
     Honako bideo honetan duzue modua [*`Berria`*]() adarrari konektatzeko eta azken eguneratzeak ikusi ahal izateko.  
 
+<img src=" https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/Images/BerriaBiltegiDigitalaArgitzea.gif?raw=true">
+
     Arazorik baduzue, esan eta saiatuko naiz konpontzen.
 
 ----------------------------------

@@ -7,6 +7,25 @@ MathJax.Hub.Config({
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js"></script>
 Log file for the subject   
 
+**Nov2016-02**  
+
+- Atzoko eskolan egindakoa birpasatu.
+
+- [6. Gaia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/1_Termodinamika2016_2017/6-Gaia-BigarrenPrintzipioa/BigarrenPrintzipioa.md): Termodinamikaren Bigarren Printzipioa
+  - lan maximoarekin lotutako ariketa motak,  
+  aurreko eskola-orduan aurkeztutakoak, egin
+
+
+- proposamenak:  
+  - bigarren printzipioarekin lotutako ariketak begiratzen hasi
+  - ariketa egiteko proposamena:
+    - prosezu itzulezina, eskua sartuz, itzulgarri bihurtu  
+      *Tenperatura batean dagoen sistema, presio konstantean beste tenperatura batera eraman dugu.  
+      Kalkulatu behar dira sistemaren, ingurunearen (bero-iturri bakarra) eta unibertsoaren entropia-aldaketa.  
+      Errepikatu behar da aurrekoa baina, kasu honetan, aurreko bi bero-iturrien artean tenperatura erdian dagoen bero-iturria tartekatuz.  
+      Horrela, bero-iturrien sorta infinitua tarketatu behar da, kasu bakoitzean sistemaren, ingurunearen (bero-iturrien sorta infinitua) eta unibertsoaren entropia-aldaketa kalkulatuz.*
+
+-----------------------------------
 **Oct2016-27**  
 
 - Atzoko eskolan egindakoa birpasatu.
