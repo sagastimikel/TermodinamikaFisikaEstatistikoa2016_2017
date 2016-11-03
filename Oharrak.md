@@ -7,9 +7,9 @@
 
     Ordenadorearekin izan ditudan arazoengatik, egunotan, nahiko sailtasun handiak izan ditut biltegi digitala (errpositorioa) behar den moduan eguneratzeko. Gainera, segurtasunagatik, beste adara batean lanean ibili naiz: ***Berria*** izeneko adarrean eta ez *master* adarrean.  
     
-    Honako bideo honetan duzue modua [*`Berria`*]() adarrari konektatzeko eta azken eguneratzeak ikusi ahal izateko.  
+    Honako bideo honetan duzue modua [*`Berria`*](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/Images/BerriaBiltegiDigitalaArgitzea.gif) adarrari konektatzeko eta azken eguneratzeak ikusi ahal izateko.  
 
-<img src=" https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/Images/BerriaBiltegiDigitalaArgitzea.gif?raw=true">  
+<img src=" https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/Images/BerriaBiltegiDigitalaArgitzea.gif?raw=true">
 
     Arazorik baduzue, esan eta saiatuko naiz konpontzen.
 
