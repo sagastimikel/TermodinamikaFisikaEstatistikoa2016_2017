@@ -1,5 +1,7 @@
 # Termodinamika eta Fisika Estatistikoa
 
+[![Join the chat at https://gitter.im/TermodinamikaFisikaEstatistikoa2016_2017/Lobby](https://badges.gitter.im/TermodinamikaFisikaEstatistikoa2016_2017/Lobby.svg)](https://gitter.im/TermodinamikaFisikaEstatistikoa2016_2017/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 **3.mailako halabeharrezko irakasgaia.**
 2016-2017 Ikasturtea
 
