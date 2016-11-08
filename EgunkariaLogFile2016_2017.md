@@ -7,6 +7,13 @@ MathJax.Hub.Config({
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js"></script>
 Log file for the subject   
 
+**Nov2016-08**  
+
+  - [Ariketa-sortako](http://localhost:8888/notebooks/Desktop/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/1_Termodinamika2016_2017/6-Gaia-BigarrenPrintzipioa/Termo6GaiaBigarrenPrintzipioaArgitara.ipynb#) 24. ariketa Josebak egin du
+
+- Bihar formalismo berriarekin hasiko gara.  
+
+_______________________________
 **Nov2016-07**  
 
   - [Ariketa-sortako](http://localhost:8888/notebooks/Desktop/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/1_Termodinamika2016_2017/6-Gaia-BigarrenPrintzipioa/Termo6GaiaBigarrenPrintzipioaArgitara.ipynb#) ariketak: 14, 15, 15', 15''
