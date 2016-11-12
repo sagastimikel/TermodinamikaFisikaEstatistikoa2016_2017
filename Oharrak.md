@@ -1,5 +1,17 @@
 #### Oharrak, 2016-2017 ikasturtea
 -----------------------------------
+----------------------------------
+
+5. **2016ko azaroaren 12an**, arratsaldeko 4etan, jasotako oharra:
+
+    [Hementxe](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/1_Termodinamika2016_2017/Az_2_Nov_2016_2017_AzterketaxoaII/Azterketatxoa_2_6Gaia.ipynb) duzue 2. azterketatxoa.  
+    
+    Zuzentzeko betiko irizpideak.  
+    Entregatzeko, asteartean, eskola-orduan.  
+    Norbaitek lehenago entregatu nahi badu, badauka posta elektronikoz bidaltzea.  
+    
+
+
 
 ----------------------------------
 
