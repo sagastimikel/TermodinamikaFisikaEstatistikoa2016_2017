@@ -7,6 +7,33 @@ MathJax.Hub.Config({
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js"></script>
 Log file for the subject   
 
+**Nov2016-15**  
+
+- [8. Gaia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/1_Termodinamika2016_2017/8-Gaia-FormalismoBerria/FormalismoBerria.md):  
+  - Euler-en ekuazioa  
+  - Gibbs-en eta Duhem-en eralzioa  
+  - Oinarrizko ekuazioaren eraikuntza, aurreko bi horiek erabilita:  
+     - era formalean adierazi
+
+Ariketen proposamena:  
+  - Euler-en ekuazioaren forma oinarrizko ekuazioaren adierazpen entropikotik abiatuta
+  - Gibbs-en eta Duhem-en erlazioaren adierazpena oinarrizko ekuazioaren adierazpen entropikotik abiatuta  
+  - Oinarrizko ekuazioaren eraikuntza [zenbait ariketatan](http://localhost:8888/notebooks/Desktop/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/1_Termodinamika2016_2017/8-Gaia-FormalismoBerria/OinarrizkoEkuazioaEraikuntzaAriketakAdibide.ipynb).
+  
+_______________________________
+**Nov2016-09**  
+
+- [8. Gaia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/1_Termodinamika2016_2017/8-Gaia-FormalismoBerria/FormalismoBerria.md):
+- Lehenengo orduan, 8:40-9:30  
+      - Postulatuak: I, II, III  
+      - Gardenkiak proposatutako ariketa: oinarrziko ekuaziotik egoera-ekuazioak ondorioztatu  
+          - Oinarrizko ekuazioetako bat molarra da, nola lortzen da hirugarren egoera-ekuazioa?
+
+- Bigarren orduan, 12:00-13:00  
+      - Prozesuen adierazpena  
+      - Gardekian dagoena eta eskolan landu dena ariketa moduan proposatu egiteko
+
+_______________________________
 **Nov2016-08**  
 
   - [Ariketa-sortako](http://localhost:8888/notebooks/Desktop/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/1_Termodinamika2016_2017/6-Gaia-BigarrenPrintzipioa/Termo6GaiaBigarrenPrintzipioaArgitara.ipynb#) 24. ariketa Josebak egin du
