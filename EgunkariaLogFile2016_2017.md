@@ -18,7 +18,7 @@ Log file for the subject
 Ariketen proposamena:  
   - Euler-en ekuazioaren forma oinarrizko ekuazioaren adierazpen entropikotik abiatuta
   - Gibbs-en eta Duhem-en erlazioaren adierazpena oinarrizko ekuazioaren adierazpen entropikotik abiatuta  
-  - Oinarrizko ekuazioaren eraikuntza [zenbait ariketatan](http://localhost:8888/notebooks/Desktop/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/1_Termodinamika2016_2017/8-Gaia-FormalismoBerria/OinarrizkoEkuazioaEraikuntzaAriketakAdibide.ipynb).
+  - Oinarrizko ekuazioaren eraikuntza [zenbait ariketatan](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/1_Termodinamika2016_2017/8-Gaia-FormalismoBerria/OinarrizkoEkuazioaEraikuntzaAriketakAdibide.ipynb).
   
 _______________________________
 **Nov2016-09**  
