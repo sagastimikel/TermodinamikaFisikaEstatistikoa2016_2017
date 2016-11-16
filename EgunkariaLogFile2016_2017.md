@@ -14,7 +14,7 @@ Log file for the subject
 
 Ariketen proposamena:  
    - Oinarrizko ekuazioarekin lotutako beste zenbait ariketa, hain zuzezn, haren propietateak kontuan hartuz (postulatuen bidez) emandako ekuazioak oinarrizkoak direnetz aztertu behar da:  
-   - Ba al dira [oinarrizko ekuazio](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/1_Termodinamika2016_2017/8-Gaia-FormalismoBerria/OinarrizkoEkuazioaEraikuntzaAriketakAdibide.ipynb)?
+   - Zazpigarren ariketa (7.), ba al dira [oinarrizko ekuazio](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/1_Termodinamika2016_2017/8-Gaia-FormalismoBerria/OinarrizkoEkuazioaEraikuntzaAriketakAdibide.ipynb)?
 
 _______________________________
 **Nov2016-15**  
