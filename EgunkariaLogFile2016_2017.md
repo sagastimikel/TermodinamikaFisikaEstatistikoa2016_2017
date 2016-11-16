@@ -7,6 +7,16 @@ MathJax.Hub.Config({
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js"></script>
 Log file for the subject   
 
+**Nov2016-16**  
+
+- [8. Gaia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/1_Termodinamika2016_2017/8-Gaia-FormalismoBerria/FormalismoBerria.md):  
+   - Oinarrizko ekuazioaren eraikuntza [zenbait ariketatan](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/1_Termodinamika2016_2017/8-Gaia-FormalismoBerria/OinarrizkoEkuazioaEraikuntzaAriketakAdibide.ipynb).  
+
+Ariketen proposamena:  
+   - Oinarrizko ekuazioarekin lotutako beste zenbait ariketa, hain zuzezn, haren propietateak kontuan hartuz (postulatuen bidez) emandako ekuazioak oinarrizkoak direnetz aztertu behar da:  
+   - Ba al dira [oinarrizko ekuazio](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/1_Termodinamika2016_2017/8-Gaia-FormalismoBerria/OinarrizkoEkuazioaEraikuntzaAriketakAdibide.ipynb)?
+
+_______________________________
 **Nov2016-15**  
 
 - [8. Gaia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/1_Termodinamika2016_2017/8-Gaia-FormalismoBerria/FormalismoBerria.md):  
