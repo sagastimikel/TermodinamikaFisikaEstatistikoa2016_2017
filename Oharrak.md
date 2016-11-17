@@ -7,7 +7,8 @@
     [Hementxe](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/1_Termodinamika2016_2017/Az_2_Nov_2016_2017_AzterketaxoaII/Notak2Azterketatxoa_2016_11_15.pdf) duzue 2. azterketatxoaren notak.  
     Kontuan izan oraindik ez dudala 1. ariketa zuzendu, zuzenduko dut.  
     Beraz, agertzen den gehienezko nota 7.5 da.
-        
+
+    Ez egin kasurik gorriz agertzen diren notei: programa prestatuta daukat 10.0 izateko gehinezko nota (ez dut honetarako aldatu nahi izan...)
 
 
 
