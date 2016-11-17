@@ -2,6 +2,17 @@
 -----------------------------------
 ----------------------------------
 
+6. **2016ko azaroaren 17an**, jasotako oharra:
+
+    [Hementxe](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/1_Termodinamika2016_2017/Az_2_Nov_2016_2017_AzterketaxoaII/Notak2Azterketatxoa_2016_11_15.pdf) duzue 2. azterketatxoaren notak.  
+    Kontuan izan oraindik ez dudala 1. ariketa zuzendu, zuzenduko dut.  
+    Beraz, agertzen den gehienezko nota 7.5 da.
+        
+
+
+
+-------------------------------------------------------------
+
 5. **2016ko azaroaren 12an**, arratsaldeko 4etan, jasotako oharra:
 
     [Hementxe](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/1_Termodinamika2016_2017/Az_2_Nov_2016_2017_AzterketaxoaII/Azterketatxoa_2_6Gaia.ipynb) duzue 2. azterketatxoa.  
