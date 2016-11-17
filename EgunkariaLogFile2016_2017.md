@@ -7,6 +7,24 @@ MathJax.Hub.Config({
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js"></script>
 Log file for the subject   
 
+**Nov2016-17**  
+
+- [8. Gaia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/1_Termodinamika2016_2017/8-Gaia-FormalismoBerria/FormalismoBerria.md):  
+   - Formalismoaren luburbilduma  
+   - printizpio estremalaren baliokidetasuna entropiaren eta energiaren adierazpenetan:  hiru modutan
+      - kualitatiboki
+      - fisikoki: zuok begiratu eta prestatu
+      - matematikoki: zuok begiratu eta prestatu
+    - Legendre-ren transformazioak termodinamikaren testuinguruan: parametroa intentsiboak aldagi independenteen sortan "sartu" oinarrizko ekuazioaren infomrazioa galdu gabe.
+    - Potentzial Termodinamikoak: F, H, G...
+
+Ariketen proposamena:  
+   - Zortzigarren ariketatik [aurrerakoak](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/1_Termodinamika2016_2017/8-Gaia-FormalismoBerria/OinarrizkoEkuazioaEraikuntzaAriketakAdibide.ipynb)
+   
+## Oharra:  
+  Begiratu oharrak, 2. azterketatxoaren notak (lehen ariketa zuzendu gabeko notak dira, beraz, gehien jota 7.5 lor dezakezue...zuzenduko dut)
+
+_______________________________
 **Nov2016-16**  
 
 - [8. Gaia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/1_Termodinamika2016_2017/8-Gaia-FormalismoBerria/FormalismoBerria.md):  
