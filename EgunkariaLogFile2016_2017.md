@@ -7,6 +7,14 @@ MathJax.Hub.Config({
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js"></script>
 Log file for the subject   
 
+**Nov2016-21**  
+
+- [8. Gaia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/1_Termodinamika2016_2017/8-Gaia-FormalismoBerria/FormalismoBerria.md):  
+   - Formalismoaren luburbilduma gogorarazi
+   - Maxwell-en erlazioekin hasi...
+
+_______________________________
+
 **Nov2016-17**  
 
 - [8. Gaia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/1_Termodinamika2016_2017/8-Gaia-FormalismoBerria/FormalismoBerria.md):  
