@@ -7,6 +7,20 @@ MathJax.Hub.Config({
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js"></script>
 Log file for the subject   
 
+**Nov2016-23**  
+
+- [Kalkulu termodinamikoarekin](http://nbviewer.jupyter.org/github/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/4d4451430f8c15ce0be080ca5ff953ecf395d4c8/1_Termodinamika2016_2017/8-Gaia-FormalismoBerria/OinarrizkoEkuazioaEraikuntzaAriketakAdibide.ipynb) lotutako ariketak:  
+   - 26., 27., 39., 40. eta 41.
+   - azken hori, 41.a, beste modu batean kalkulatzeko proposamena
+
+_______________________________
+**Nov2016-22**  
+
+- [8. Gaia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/1_Termodinamika2016_2017/8-Gaia-FormalismoBerria/FormalismoBerria.md):  
+   - Maxwell-en erlazioak
+   - Kalkulu termodinamikoa
+
+_______________________________
 **Nov2016-21**  
 
 - [8. Gaia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/1_Termodinamika2016_2017/8-Gaia-FormalismoBerria/FormalismoBerria.md):  
