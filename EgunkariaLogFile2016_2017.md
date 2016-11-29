@@ -16,7 +16,7 @@ Log file for the subject
 - Biharko azterketatxoa iragarri
   Eguerdiko 12etan, 1.2 (ohiko) gelan.  
   
-  [Hementxe]() duzue azterketatxoa.  
+  [Hementxe](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/1_Termodinamika2016_2017/Az_3_Nov_2016_2017_AzterketaxoaIII/Azterketatxoa_3_8Gaia.ipynb) duzue azterketatxoa.  
   
 _______________________________
 **Nov2016-28**  
