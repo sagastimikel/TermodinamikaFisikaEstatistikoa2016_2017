@@ -1,6 +1,15 @@
 #### Oharrak, 2016-2017 ikasturtea
 -----------------------------------
-----------------------------------
+
+7. **2016ko azaroaren 29an**, jasotako oharra:
+
+    [Hementxe](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/1_Termodinamika2016_2017/Az_3_Nov_2016_2017_AzterketaxoaIII/Azterketatxoa_3_8Gaia.ipynb) duzue 3. azterketatxoa.  
+    
+    Zuzentzeko betiko irizpideak.  
+    Entregatzeko, asteartean, eskola-orduan.  
+    Norbaitek lehenago entregatu nahi badu, badauka posta elektronikoz bidaltzea.  
+
+-------------------------------------------------------------
 
 6. **2016ko azaroaren 17an**, jasotako oharra:
 
