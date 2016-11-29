@@ -7,11 +7,29 @@ MathJax.Hub.Config({
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js"></script>
 Log file for the subject   
 
+**Nov2016-29**  
+
+- [Kalkulu termodinamikoarekin](http://nbviewer.jupyter.org/github/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/4d4451430f8c15ce0be080ca5ff953ecf395d4c8/1_Termodinamika2016_2017/8-Gaia-FormalismoBerria/OinarrizkoEkuazioaEraikuntzaAriketakAdibide.ipynb) lotutako ariketa:  
+   - 37.ariketa, ebazpena argitu, hurrengoa ere bai.  
+   - beste ariketa bat proposatu
+   
+- Biharko azterketatxoa iragarri
+  Eguerdiko 12etan, 1.2 (ohiko) gelan.  
+  
+  [Hementxe]() duzue azterketatxoa.  
+  
+_______________________________
+**Nov2016-28**  
+
+- Ez da eskolarik egon nire erruz.  
+  Beste gun batera pasatuko dugu, printzipioz, oraindik finkatzeko.
+
+_______________________________
 **Nov2016-24**  
 
 - [Kalkulu termodinamikoarekin](http://nbviewer.jupyter.org/github/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/4d4451430f8c15ce0be080ca5ff953ecf395d4c8/1_Termodinamika2016_2017/8-Gaia-FormalismoBerria/OinarrizkoEkuazioaEraikuntzaAriketakAdibide.ipynb) lotutako ariketak:  
    - 24., 25., 29., 30., 31., 32., 33., 34., 35.
-   - beste ariketa batuzk proposatu
+   - beste ariketa batzuk proposatu
 
 _______________________________
 
