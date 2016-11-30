@@ -18,7 +18,7 @@ Egonkortasunerako baldintzen ondorioztapen kuantitatiboa: ondorio fisikoak
 Le'Chatelier-en eta Braun-en Printzipioaren frogapena  
 
 
-*Callen* liburuko  
+*Callen* liburuko  (ingelesezko bertsioa)
   - 8. Gaia: **Stability of Thermodynamic Systems**  
     - 8.1 atala: *Intrinsic Stability of Thermodynamic Systems*  
     - 8.2 atala: *Stability Conditions for Thermodynamics Potentials*  
