@@ -14,7 +14,7 @@ Log file for the subject
    - atzo proposatutako ariketa, datorren asteko azterketatxoan "sartuko" da.  
 
 
-- Hurrengo gaiarekin hasi: egonkortasunerako baldintzak
+- Hurrengo gaiarekin hasi: [egonkortasunerako baldintzak](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/1_Termodinamika2016_2017/10-Gaia-EgonkortasunerakoBaldintzak/EgonokortasunerakoBaldintzak.md)
   
 _______________________________
 **Nov2016-29**  
