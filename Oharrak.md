@@ -1,4 +1,11 @@
 #### Oharrak, 2016-2017 ikasturtea
+
+-----------------------------------
+
+8. **2016ko azaroaren 30ean**, jasotako oharra:
+
+    [Hementxe](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/1_Termodinamika2016_2017/Az_2_Nov_2016_2017_AzterketaxoaII/Notak2Azterketatxoa_2016_11_15Def.pdf) dauzkazue 2. azterketaxoarekin lotutako nota definitiboak, falta zen ariketa, 1. ariketa, zuzenduta.
+
 -----------------------------------
 
 7. **2016ko azaroaren 29an**, jasotako oharra:
