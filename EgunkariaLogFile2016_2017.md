@@ -7,6 +7,16 @@ MathJax.Hub.Config({
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js"></script>
 Log file for the subject   
 
+**Nov2016-30**  
+
+- [Kalkulu termodinamikoarekin](http://nbviewer.jupyter.org/github/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/4d4451430f8c15ce0be080ca5ff953ecf395d4c8/1_Termodinamika2016_2017/8-Gaia-FormalismoBerria/OinarrizkoEkuazioaEraikuntzaAriketakAdibide.ipynb) lotutako ariketa:  
+   - 37.ariketa, ebazpena argitu, hurrengoa ere bai.  
+   - atzo proposatutako ariketa, datorren asteko azterketatxoan "sartuko" da.  
+
+
+- Hurrengo gaiarekin hasi: egonkortasunerako baldintzak
+  
+_______________________________
 **Nov2016-29**  
 
 - [Kalkulu termodinamikoarekin](http://nbviewer.jupyter.org/github/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/4d4451430f8c15ce0be080ca5ff953ecf395d4c8/1_Termodinamika2016_2017/8-Gaia-FormalismoBerria/OinarrizkoEkuazioaEraikuntzaAriketakAdibide.ipynb) lotutako ariketa:  
@@ -16,7 +26,7 @@ Log file for the subject
 - Biharko azterketatxoa iragarri
   Eguerdiko 12etan, 1.2 (ohiko) gelan.  
   
-  [Hementxe](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/1_Termodinamika2016_2017/Az_3_Nov_2016_2017_AzterketaxoaIII/Azterketatxoa_3_8Gaia.ipynb) duzue azterketatxoa.  
+  [Hementxe](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/1_Termodinamika2016_2017/Az_3_Nov_2016_2017_AzterketaxoaIII/Azterketatxoa_3_8Gaia.ipynb) duzue azterketatxoa: **Formalismo berria (1)**.  
   
 _______________________________
 **Nov2016-28**  
