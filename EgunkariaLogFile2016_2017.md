@@ -9,6 +9,21 @@ Log file for the subject
 
 **Nov2016-30**  
 
+
+- [Egonkortasunerako baldintzak](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/1_Termodinamika2016_2017/10-Gaia-EgonkortasunerakoBaldintzak/EgonokortasunerakoBaldintzak.md): 
+  - atzoko eskola gogora ekarri
+  - Le'Chatelier-en Printzipioa
+  - Le'Chatelier-en eta Braun-en Printzipioa
+  
+  
+- [Fase-trantsioekin](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/1_Termodinamika2016_2017/10-Gaia-FaseTrantsizioak/FaseTrantsizioak.md) hasi:
+  - gaiaren aurkezpena
+  - van der Waals-en egoera-ekuazio mekanikoaren azterketa kualitatiboa
+  
+_______________________________
+
+**Nov2016-30**  
+
 - [Kalkulu termodinamikoarekin](http://nbviewer.jupyter.org/github/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/4d4451430f8c15ce0be080ca5ff953ecf395d4c8/1_Termodinamika2016_2017/8-Gaia-FormalismoBerria/OinarrizkoEkuazioaEraikuntzaAriketakAdibide.ipynb) lotutako ariketa:  
    - 37.ariketa, ebazpena argitu, hurrengoa ere bai.  
    - atzo proposatutako ariketa, datorren asteko azterketatxoan "sartuko" da.  
