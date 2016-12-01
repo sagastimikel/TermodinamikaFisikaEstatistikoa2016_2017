@@ -2,6 +2,20 @@
 
 -----------------------------------
 
+9. **2016ko abenduaren 1ean**, jasotako oharra:
+
+    [Hementxe](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/1_Termodinamika2016_2017/Az_3_Nov_2016_2017_AzterketaxoaIII/Notak3Azterketatxoa_2016_11_30.pdf) dauzkazue 3. azterketaxoarekin lotutako notak.  
+    
+    Datorren astelehenean, abenduaren 5ean, ez dago eskolarik.  
+    Datorren asteazkenean, abenduaren 7an, eskola dago, ohiko orduan.
+    
+    Datorren asteazkenean, abenduaren 7an, 4. azterketatxoa egingo dugu:  
+      - 4 azterketatxoa, Fomralismo berria (2): ariketako  
+      - ohiko irizpideak
+      - galderetako bat: ariketa-eskola abtean egindako He eta Ne gasen ariketa.
+
+-----------------------------------
+
 8. **2016ko azaroaren 30ean**, jasotako oharra:
 
     [Hementxe](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/1_Termodinamika2016_2017/Az_2_Nov_2016_2017_AzterketaxoaII/Notak2Azterketatxoa_2016_11_15Def.pdf) dauzkazue 2. azterketaxoarekin lotutako nota definitiboak, falta zen ariketa, 1. ariketa, zuzenduta.
