@@ -29,7 +29,7 @@ Log file for the subject
       - Ariketa-sortako ariketa bat
       - beste ariketa bat
       
-  - [Hementxe]() duzue fase-trantsizioekin lotutako ariketen ariketa-orria
+  - [Hementxe](http://nbviewer.jupyter.org/github/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/ce5699bf61dad7e4b16bfd5995003f8d0e6b67ba/1_Termodinamika2016_2017/10-Gaia-FaseTrantsizioak/Ariketak10FaseTrantsizioakAzkena.ipynb) duzue fase-trantsizioekin lotutako ariketen ariketa-orria
   
 _______________________________
 **Dec2016-07**  
