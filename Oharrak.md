@@ -2,6 +2,22 @@
 
 -----------------------------------
 
+10. **2016ko abenduaren 10ean**, jasotako oharra:
+  - Hurrengo azterketatxoaren proposamena:
+    - fase-trantsizioekin lotutako azterketatxoa
+    - ohiko banaketa eta ohiko zuzentze-irizpideak
+    - *Ariketa kualitatiboak*:
+       - Entropia molarrak eta bolumen molarrak dituzten jauziekin lotutako eduki fisikoa, Callen liburuko atalean agertzen den moduan
+       - Eskoletan ez dut azaldu Callen liburan dagoen beste kontzeptu oso inportantea:  
+       ***Zer ondorio dauka potentzial kimikoak balio berbera izateak fase-trantsizioan agertzen diren bi faseetan?***  
+       ***Baldintza horren bidez, zer ondorioztatzen da?***  
+    - *Ariketa kuantitatiboak:*  
+      - Ariketa-sortako ariketa bat
+      - beste ariketa bat
+
+
+-----------------------------------
+
 9. **2016ko abenduaren 1ean**, jasotako oharra:
 
     [Hementxe](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/1_Termodinamika2016_2017/Az_3_Nov_2016_2017_AzterketaxoaIII/Notak3Azterketatxoa_2016_11_30.pdf) dauzkazue 3. azterketaxoarekin lotutako notak.  

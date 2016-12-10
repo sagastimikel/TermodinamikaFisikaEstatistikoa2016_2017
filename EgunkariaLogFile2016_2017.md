@@ -7,8 +7,49 @@ MathJax.Hub.Config({
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js"></script>
 Log file for the subject   
 
-**Nov2016-30**  
+**Dec2016-09**  
 
+
+  - Calusius-en eta Clapeyron-en ekuazioa:
+    - lorpena
+    kasu bereziak eta hurbilketak:  
+    lurrunak parte hartzen badu fase-trantsizioan
+  - fase-trantsizioekin lotutako ariketa orokorra: azalpena
+  - ariketa bat proposatu (dagoeneko fase-trantsizioen ariketa-orrian jasota dago)  
+  
+  - Hurrengo azterketatxoaren proposamena:
+    - fase-trantsizioekin lotutako azterketatxoa
+    - ohiko banaketa eta ohiko zuzentze-irizpideak
+    - *Ariketa kualitatiboak*:
+       - Entropia molarrak eta bolumen molarrak dituzten jauziekin lotutako eduki fisikoa, Callen liburuko atalean agertzen den moduan
+       - Eskoletan ez dut azaldu Callen liburan dagoen beste kontzeptu oso inportantea:  
+       ***Zer ondorio dauka potentzial kimikoak balio berbera izateak fase-trantsizioan agertzen diren bi faseetan?***  
+       ***Baldintza horren bidez, zer ondorioztatzen da?***  
+    - *Ariketa kuantitatiboak:*  
+      - Ariketa-sortako ariketa bat
+      - beste ariketa bat
+      
+  - [Hementxe]() duzue fase-trantsizioekin lotutako ariketen ariketa-orria
+  
+_______________________________
+**Dec2016-07**  
+
+
+  - aurreko eskolakoa gogorarazi
+  - Fase-diagrama orokorra eraiki eta azaldu
+  
+_______________________________
+
+**Dec2016-01**  
+
+  - [Fase-trantsizioak](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/1_Termodinamika2016_2017/10-Gaia-FaseTrantsizioak/FaseTrantsizioak.md)
+  - van der Waals-en egoera-ekuazio mekanikoaren azterketa kualitatiboa  
+    potentzial kimikoaren ondorioztapena: fase-trantsizioaren azterketa kualitatiboa *potentzial kimikoa vs presioa*, lerro isotermoan
+  - ariketa proposamena: lortzea eta azaltzea *potentzial kimikoa vs tenperatura*, lerro isobaroan
+
+  
+_______________________________
+**Nov2016-30**  
 
 - [Egonkortasunerako baldintzak](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/1_Termodinamika2016_2017/10-Gaia-EgonkortasunerakoBaldintzak/EgonokortasunerakoBaldintzak.md): 
   - atzoko eskola gogora ekarri
