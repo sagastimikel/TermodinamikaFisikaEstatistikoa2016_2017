@@ -7,6 +7,25 @@ MathJax.Hub.Config({
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js"></script>
 Log file for the subject   
 
+**Dec2016-14**  
+
+  - Ez da eskolarik egon nik ezin izan baitut joan unibertsitatetara lehenengo orduan
+  
+_______________________________
+**Dec2016-13**  
+
+  - [Ariketak](http://nbviewer.jupyter.org/github/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/ce5699bf61dad7e4b16bfd5995003f8d0e6b67ba/1_Termodinamika2016_2017/10-Gaia-FaseTrantsizioak/Ariketak10FaseTrantsizioakAzkena.ipynb):  
+  16, 17 bukatu  
+  4, 5, 6 egin
+  
+_______________________________
+**Dec2016-12**  
+
+  - [Ariketak](http://nbviewer.jupyter.org/github/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/ce5699bf61dad7e4b16bfd5995003f8d0e6b67ba/1_Termodinamika2016_2017/10-Gaia-FaseTrantsizioak/Ariketak10FaseTrantsizioakAzkena.ipynb):  
+  16, 17 planteatu  
+  1, 2, 3 egin
+  
+_______________________________
 **Dec2016-09**  
 
 
