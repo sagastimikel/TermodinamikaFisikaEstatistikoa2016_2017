@@ -2,6 +2,21 @@
 
 -----------------------------------
 
+11. **2017ko urtarrilaren 30ean**, jasotako oharra:
+
+    [Hementxe](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/1_Termodinamika2016_2017/Az_Par_Jan_2016_2017_PartzialaTermodinamika/Notak_1_Azterketa_Partziala_2017_01_27.pdf) dauzkazue lehenego azterketa partzialeko notak.
+
+
+-----------------------------------
+
+10. **2016ko abenduaren 23an**, jasotako oharra:
+
+    [Hementxe](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/blob/Berria/1_Termodinamika2016_2017/Az_2_Nov_2016_2017_AzterketaxoaII/Notak2Azterketatxoa_2016_11_15Def.pdf) dauzkazue 2. azterketaxoarekin lotutako nota definitiboak, falta zen ariketa, 1. ariketa, zuzenduta.
+
+
+
+-----------------------------------
+
 10. **2016ko abenduaren 10ean**, jasotako oharra:
   - Hurrengo azterketatxoaren proposamena:
     - fase-trantsizioekin lotutako azterketatxoa
