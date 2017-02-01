@@ -12,7 +12,7 @@ Log file for the subject
 **Jan2017-31**  
 
   - Lauhilekoaren aurkezpena
-  - [Hementxe](https://rawgit.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/Berria/2_FisikaEstatistikoa2016_2017/vertical-timeline/index.html) daukazue gaien banaketa, liburuetan eta aztertuko diren kontzeptuetan
+  - [Hementxe](https://rawgit.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/Berria/2_FisikaEstatistikoa2016_2017/AurkezpenEskolaOrokorra/index.html) daukazue gaien banaketa, liburuetan eta aztertuko diren kontzeptuetan
   
   - [Hementxe](https://rawgit.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/Berria/2_FisikaEstatistikoa2016_2017/AurkezpenEskolaOrokorraEgunkaria/indexAurkezpenEskolaEgunkaria.html) duzue berori, egunez egun aldatuta...egindakoa adierazita.  
   Egunero *eguneratuko* dut artxibo hori...
