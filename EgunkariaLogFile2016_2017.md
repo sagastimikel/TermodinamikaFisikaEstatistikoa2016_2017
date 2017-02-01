@@ -5,8 +5,22 @@ MathJax.Hub.Config({
 </script>
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js"></script>
+
+
 Log file for the subject   
 
+**Jan2017-31**  
+
+  - Lauhilekoaren aurkezpena
+  - [Hementxe]() daukazue gaien banaketa, liburuetan eta aztertuko diren kontzeptuetan
+  
+_______________________________
+**Jan2017-30**  
+
+  - Termodinamikako Azterketa partziala zuzendu
+  - Notak argitaratu: partzialekoak eta lehenengo lauhilekokoak
+  
+_______________________________
 **Dec2016-14**  
 
   - Ez da eskolarik egon nik ezin izan baitut joan unibertsitatetara lehenengo orduan
