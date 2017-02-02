@@ -9,6 +9,20 @@ MathJax.Hub.Config({
 
 Log file for the subject   
 
+**Feb2017-02**  
+  - Pathria 1 Gaia
+    - 1.2  
+    - 1.3   
+    - 1.4 : Hiperesferaren bolumena kalkulatu gabe (1.4.13. ekuazioraino)
+  -  [Egunekoa](https://rawgit.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/Berria/2_FisikaEstatistikoa2016_2017/AurkezpenEskolaOrokorraEgunkaria/indexAurkezpenEskolaEgunkaria.html)
+  
+_______________________________
+**Feb2017-01**  
+  - Pathria 1 Gaia
+    - 1.1 
+    - 1.2 : Mikroegoeren kopurua maximizatu gabe (1.2.3 ekuazioraino)
+    
+_______________________________
 **Jan2017-31**  
 
   - Lauhilekoaren aurkezpena
