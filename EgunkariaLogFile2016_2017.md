@@ -9,6 +9,14 @@ MathJax.Hub.Config({
 
 Log file for the subject   
 
+**Feb2017-06**  
+  - Pathria 1 Gaia
+    - 1.4  
+    - 1.5  Zuoi utzi biharko begiratzeko, berriro aztertzeko
+    - 1.6  Zuoi utzi biharko begiratzeko, berriro aztertzeko 
+  -  [Egunekoa](https://cdn.rawgit.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/Berria/2_FisikaEstatistikoa2016_2017/AurkezpenEskolaOrokorraEgunkaria/indexAurkezpenEskolaEgunkaria.html)
+  
+_______________________________
 **Feb2017-02**  
   - Pathria 1 Gaia
     - 1.2  
