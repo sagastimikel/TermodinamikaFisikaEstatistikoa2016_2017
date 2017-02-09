@@ -9,15 +9,40 @@ MathJax.Hub.Config({
 
 Log file for the subject   
 
+**Feb2017-09**  
+
+  - Pathria 2 Gaia  
+    - 2.4 adibideak:
+      - gas ideala
+      - osziladore harmonikoak: zuok garatu beharreko atala
+    - 2.5 atala: era inplizituan aipatu dut, 2.4ko kalkuluak egiterakoan
+      - lantzea, zuon kontura
+      
+  - Multzo (estatistiko) mikrokanonikoaren lotutaklo 2 ariketa proposatu:
+    - Partikula identiko baina bereizgarriz osatutako sistema aztertu beharra dago. Partikulak bi egoeretan baino ezin dira egon: $-\epsilon$ eta $\epsilon$ energiakoak, hurrenez hurren. Kalkulatu mikroegoeren kopurua.  
+    
+    - Sare batek $N$ ohiko sare-puntu ditu eta $N$ sare-puntuen arteko puntuak. Sare-puntuak denak berezigarri dira. $N$ atomo identiko jartzen dira sarean: $M$, sare-puntuen arteko puntuetan; eta $N-M$, ohiko sare-puntuetan ($N\gg M\gg 1$). Ohiko sare-puntuan dagoen atomoaren energia $E=0$ da eta sare-puntuen arteko puntuan dagoen atomoarena, $E=\epsilon$. Kalkulatu mikroegoren kopurua.
+  
+  
+  -  [Egunekoa](https://cdn.rawgit.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/Berria/2_FisikaEstatistikoa2016_2017/AurkezpenEskolaOrokorraEgunkaria/indexAurkezpenEskolaEgunkaria.html)
+
+_______________________________
+**Feb2017-08**  
+  - Pathria 2 Gaia  
+    - 2.1  
+    - 2.2  
+    - 2.3. atala, 35. orriko tarteko paragrafoa 
+
+_______________________________
 **Feb2017-07**  
   - Pathria 1 Gaia  
     - 1.5  errepasatu
     - 1.6  errepasatu 
 
 
-  - Pathria 2 Gaia  
+  - Pathria 2 Gaia 
+     - aurkezpena
   
-  -  [Egunekoa](https://cdn.rawgit.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/Berria/2_FisikaEstatistikoa2016_2017/AurkezpenEskolaOrokorraEgunkaria/indexAurkezpenEskolaEgunkaria.html)
 
 _______________________________
 **Feb2017-06**  
