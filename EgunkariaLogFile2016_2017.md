@@ -9,6 +9,18 @@ MathJax.Hub.Config({
 
 Log file for the subject   
 
+**Feb2017-13**  
+
+
+  - Multzo (estatistiko) mikrokanonikoaren lotutaklo 2 ariketen ebazpena planteatu:
+    - Partikula identiko baina bereizgarriz osatutako sistema aztertu beharra dago. Partikulak bi egoeretan baino ezin dira egon: $-\epsilon$ eta $\epsilon$ energiakoak, hurrenez hurren. Kalkulatu mikroegoeren kopurua.  
+    
+    - Sare batek $N$ ohiko sare-puntu ditu eta $N$ sare-puntuen arteko puntuak. Sare-puntuak denak berezigarri dira. $N$ atomo identiko jartzen dira sarean: $M$, sare-puntuen arteko puntuetan; eta $N-M$, ohiko sare-puntuetan ($N\gg M\gg 1$). Ohiko sare-puntuan dagoen atomoaren energia $E=0$ da eta sare-puntuen arteko puntuan dagoen atomoarena, $E=\epsilon$. Kalkulatu mikroegoren kopurua.
+  
+  
+  -  [Egunekoa](https://cdn.rawgit.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/Berria/2_FisikaEstatistikoa2016_2017/AurkezpenEskolaOrokorraEgunkaria/indexAurkezpenEskolaEgunkaria.html)
+
+_______________________________
 **Feb2017-09**  
 
   - Pathria 2 Gaia  
@@ -24,7 +36,6 @@ Log file for the subject
     - Sare batek $N$ ohiko sare-puntu ditu eta $N$ sare-puntuen arteko puntuak. Sare-puntuak denak berezigarri dira. $N$ atomo identiko jartzen dira sarean: $M$, sare-puntuen arteko puntuetan; eta $N-M$, ohiko sare-puntuetan ($N\gg M\gg 1$). Ohiko sare-puntuan dagoen atomoaren energia $E=0$ da eta sare-puntuen arteko puntuan dagoen atomoarena, $E=\epsilon$. Kalkulatu mikroegoren kopurua.
   
   
-  -  [Egunekoa](https://cdn.rawgit.com/jmigartua/TermodinamikaFisikaEstatistikoa2016_2017/Berria/2_FisikaEstatistikoa2016_2017/AurkezpenEskolaOrokorraEgunkaria/indexAurkezpenEskolaEgunkaria.html)
 
 _______________________________
 **Feb2017-08**  
